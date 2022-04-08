@@ -1,0 +1,5 @@
+C:\Users\kkj81\Desktop\c++ Test\003_test15\004_cpp_02\obj\Debug\net6.0\004_cpp_02.csproj.AssemblyReference.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\004_cpp_02\obj\Debug\net6.0\004_cpp_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkj81\Desktop\c++ Test\003_test15\004_cpp_02\obj\Debug\net6.0\004_cpp_02.AssemblyInfoInputs.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\004_cpp_02\obj\Debug\net6.0\004_cpp_02.AssemblyInfo.cs
+C:\Users\kkj81\Desktop\c++ Test\003_test15\004_cpp_02\obj\Debug\net6.0\004_cpp_02.csproj.CoreCompileInputs.cache

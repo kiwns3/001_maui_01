@@ -1,0 +1,15 @@
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\bin\Debug\net6.0\15_youtube_12.exe
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\bin\Debug\net6.0\15_youtube_12.deps.json
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\bin\Debug\net6.0\15_youtube_12.runtimeconfig.json
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\bin\Debug\net6.0\15_youtube_12.dll
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\bin\Debug\net6.0\15_youtube_12.pdb
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.csproj.AssemblyReference.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.AssemblyInfoInputs.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.AssemblyInfo.cs
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.csproj.CoreCompileInputs.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.dll
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\refint\15_youtube_12.dll
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.pdb
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\15_youtube_12.genruntimeconfig.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\15_youtube_12\obj\Debug\net6.0\ref\15_youtube_12.dll

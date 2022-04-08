@@ -1,0 +1,15 @@
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\bin\Debug\net6.0\003_test15_14.exe
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\bin\Debug\net6.0\003_test15_14.deps.json
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\bin\Debug\net6.0\003_test15_14.runtimeconfig.json
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\bin\Debug\net6.0\003_test15_14.dll
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\bin\Debug\net6.0\003_test15_14.pdb
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.csproj.AssemblyReference.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.AssemblyInfoInputs.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.AssemblyInfo.cs
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.csproj.CoreCompileInputs.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.dll
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\refint\003_test15_14.dll
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.pdb
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\003_test15_14.genruntimeconfig.cache
+C:\Users\kkj81\Desktop\c++ Test\003_test15\003_test15_14\obj\Debug\net6.0\ref\003_test15_14.dll
