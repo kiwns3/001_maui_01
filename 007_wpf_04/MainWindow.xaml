@@ -13,34 +13,49 @@
             FontWeight="Bold"
             Margin="20 20 20 0"
             Text="Color Test"></TextBlock>
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" DockPanel.Dock="Top">
+        <StackPanel Orientation="Horizontal" 
+                    HorizontalAlignment="Center" 
+                    DockPanel.Dock="Top">
             <Button x:Name="btnR"
                 Margin="20" HorizontalAlignment="Center"
-                Width="50" Height="50" VerticalAlignment="Center" Click="btnR_Click">
+                Width="50" Height="50" VerticalAlignment="Center" 
+                    Click="btnR_Click">
                 <StackPanel>
-                    <Rectangle Fill="Red" Width="25" Height="25"/>
-                    <TextBlock Text="Red" HorizontalAlignment="Center"/>
+                    <Rectangle Fill="Red" 
+                               Width="25" 
+                               Height="25"/>
+                    <TextBlock Text="Red" 
+                               HorizontalAlignment="Center"/>
                 </StackPanel>
             </Button>
             <Button x:Name="btnG"
                 Margin="20" HorizontalAlignment="Center"
-                Width="50" Height="50" VerticalAlignment="Center" Click="btnG_Click">
+                Width="50" Height="50" VerticalAlignment="Center" 
+                    Click="btnG_Click">
                 <StackPanel>
-                    <Rectangle Fill="Green" Width="25" Height="25"/>
-                    <TextBlock Text="Green" HorizontalAlignment="Center"/>
+                    <Rectangle Fill="Green" 
+                               Width="25" 
+                               Height="25"/>
+                    <TextBlock Text="Green" 
+                               HorizontalAlignment="Center"/>
                 </StackPanel>
             </Button>
             <Button x:Name="btnB"
                 Margin="20" HorizontalAlignment="Center"
-                Width="50" Height="50" VerticalAlignment="Center" Click="btnB_Click">
+                Width="50" Height="50" VerticalAlignment="Center" 
+                    Click="btnB_Click">
                 <StackPanel>
-                    <Rectangle Fill="Blue" Width="25" Height="25"/>
-                    <TextBlock Text="Blue" HorizontalAlignment="Center"/>
+                    <Rectangle Fill="Blue" 
+                               Width="25" 
+                               Height="25"/>
+                    <TextBlock Text="Blue" 
+                               HorizontalAlignment="Center"/>
                 </StackPanel>
             </Button>
         </StackPanel>
         <Button DockPanel.Dock="Bottom" 
-            x:Name="btnColor" Margin="30 0 30 30" MinWidth="400" MinHeight="250"
+            x:Name="btnColor" Margin="30 0 30 30" 
+                MinWidth="400" MinHeight="250"
                 Background="AliceBlue"></Button>
     </DockPanel>
 </Window>

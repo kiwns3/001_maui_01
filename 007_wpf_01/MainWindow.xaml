@@ -16,7 +16,7 @@
             FontSize="72"
             FontWeight="Bold"
             FontStyle="Italic"
-            MouseDown="txtHello_MouseDown">김병철 멋쟁이</TextBlock>
+            MouseDown="txtHello_MouseDown">Hello World</TextBlock>
 
     </Grid>
 </Window>

@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="ChessBoard" Height="500" Width="500">
     <UniformGrid x:Name="chessBoard">
-        <Rectangle Fill="Gold"/>
+        <!--<Rectangle Fill="Gold"/>
         <Rectangle Fill="Beige"/>
         <Rectangle Fill="Beige"/>
-        <Rectangle Fill="Gold"/>
+        <Rectangle Fill="Gold"/>-->
     </UniformGrid>
 </Window>

@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="250" Width="400">
     <StackPanel Margin="20" Orientation="Vertical">
-        <TextBlock HorizontalAlignment="Center" Margin="10 10 10 0">좋아하는 프로그래밍 언어를 선택하세요.</TextBlock>
+        <TextBlock HorizontalAlignment="Center" Margin="10 10 10 0">
+            좋아하는 프로그래밍 언어를 선택하세요.</TextBlock>
         <Separator Background="Beige" Margin="0 5 0 0"/>
         <CheckBox x:Name="cbC"  Margin="30 5 0 0">C</CheckBox>
         <CheckBox x:Name="cbCPP" Margin="30 5 0 0">C++</CheckBox>
@@ -16,8 +17,10 @@
         <CheckBox x:Name="cbJava" Margin="30 5 0 0">Java</CheckBox>
         <Separator Background="Beige" Margin="0 5 0 0"/>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-            <Button x:Name="btnSubmit" Margin="10 10 5 0" Padding="5" Click="btnSubmit_Click">투표 끝내기</Button>
-            <Button x:Name="btnExit" Margin="10 10 5 0" Padding="5" Click="btnExit_Click">끝내기</Button>
+            <Button x:Name="btnSubmit" Margin="10 10 5 0" Padding="5" 
+                    Click="btnSubmit_Click">투표 끝내기</Button>
+            <Button x:Name="btnExit" Margin="10 10 5 0" Padding="5" 
+                    Click="btnExit_Click">끝내기</Button>
         </StackPanel>
     </StackPanel>
 </Window>
